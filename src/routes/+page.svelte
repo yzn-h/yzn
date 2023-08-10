@@ -6,7 +6,7 @@
 	<div class="flex flex-col items-center md:items-start gap-5 md:gap-3">
 		<h2 class="m-3 md:m-0 text-2xl md:text-2xl font-bold">يزن حمزه</h2>
 
-		<img class="w-64 md:w-52 font-bold" src="صورة ليزن.jpg" alt="صورة ليزن" />
+		<img class="w-64 md:w-52 font-bold" srcset="yzn-256-341.webp 256, yzn-512-683.webp 512" src="yzn-512-683.webp" alt="صورة ليزن" />
 
 		<p class="text-lg">طالب في جامعة جده</p>
         <a href="https://github.com/yzn-h">
@@ -31,13 +31,13 @@
 			title="Protect The Root"
 			description="مشاركتي في مسابقة Global Game Jam 2023"
 			url="https://gdyzn.itch.io/protect-the-root"
-			img_url="protect-the-root.jpg"
+			img_url="protect-the-root.webp"
 		/>
 		<Project
 			title="Traffic Brake"
 			description="مشاركتي في مسابقة CpES GAME JAM 2 مع @Sopdevv"
 			url="https://gdyzn.itch.io/protect-the-root"
-			img_url="traffic-brake.jpg"
+			img_url="traffic-brake.webp"
 		/>
 	</div>
 </div>
