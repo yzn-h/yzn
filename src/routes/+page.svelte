@@ -6,7 +6,7 @@
 	<div class="flex flex-col items-center md:items-start gap-5 md:gap-3">
 		<h2 class="m-3 md:m-0 text-2xl md:text-2xl font-bold">يزن حمزه</h2>
 
-		<img class="w-64 md:w-52 font-bold" srcset="yzn-256-341.webp 256, yzn-512-683.webp 512" src="yzn-512-683.webp" alt="صورة ليزن" />
+		<img width="512" height="683" class="w-64 md:w-52 font-bold" src="yzn-512-683.webp" alt="صورة ليزن" />
 
 		<p class="text-lg">طالب في جامعة جده</p>
         <a href="https://github.com/yzn-h">
