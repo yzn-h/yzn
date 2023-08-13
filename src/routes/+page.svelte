@@ -8,7 +8,7 @@
 
 		<img width="512" height="683" class="w-64 md:w-52 font-bold" src="yzn-512-683.webp" alt="صورة ليزن" />
 
-		<p class="text-lg">طالب في جامعة جده</p>
+		<p class="text-lg">متخرج من الثانوي</p>
         <a href="https://github.com/yzn-h">
             <!-- width="98" height="96" -->
 			<svg
