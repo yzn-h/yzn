@@ -29,6 +29,12 @@
 		<div class="md:hidden border w-28 border-gray-500 dark:border-gray-300" />
 		<h3 class="text-2xl font-bold">مشاريع</h3>
 		<Project
+		title="3D watch"
+		description="اول مجسم ثلاثي اللابعاد اصممه استخدم threejs لاضافته للموقع"
+		url="/3d_watch"
+		img_url="3d_watch.webp"
+	/>
+		<Project
 			title="Protect The Root"
 			description="مشاركتي في مسابقة Global Game Jam 2023"
 			url="https://gdyzn.itch.io/protect-the-root"
