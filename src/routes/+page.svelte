@@ -43,7 +43,7 @@
 		<Project
 			title="Traffic Brake"
 			description="مشاركتي في مسابقة CpES GAME JAM 2 مع @Sopdevv"
-			url="https://gdyzn.itch.io/protect-the-root"
+			url="https://sopdev.itch.io/traffic-brake"
 			img_url="traffic-brake.webp"
 		/>
 	</div>
